@@ -2,8 +2,8 @@ import java.util.Scanner;
 
 /*
 	ISYS 320
-	Name(s):
-	Date: 
+	Name(s): Matthew Shelby
+	Date: 4/8/2018
 */
 
 /* 2. Your pseudocode algorithm in here
